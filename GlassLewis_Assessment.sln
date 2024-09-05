@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassLewis_Assessment.Api", "GlassLewis_Assessment.Api\GlassLewis_Assessment.Api.csproj", "{932231C7-7D48-459F-A930-554500A6193C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassLewis_Assessment.Api.Tests", "GlassLewis_Assessment.Api.Tests\GlassLewis_Assessment.Api.Tests.csproj", "{FEC54A3D-9E7E-459E-B116-3E7F2A94926E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932231C7-7D48-459F-A930-554500A6193C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932231C7-7D48-459F-A930-554500A6193C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932231C7-7D48-459F-A930-554500A6193C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932231C7-7D48-459F-A930-554500A6193C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC54A3D-9E7E-459E-B116-3E7F2A94926E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC54A3D-9E7E-459E-B116-3E7F2A94926E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC54A3D-9E7E-459E-B116-3E7F2A94926E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC54A3D-9E7E-459E-B116-3E7F2A94926E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACAED48-F0B8-42A3-A14A-67F3F4718409}
+	EndGlobalSection
+EndGlobal

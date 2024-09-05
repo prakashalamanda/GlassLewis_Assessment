@@ -1,0 +1,6 @@
+@GlassLewis_Assessment.Api_HostAddress = http://localhost:5046
+
+GET {{GlassLewis_Assessment.Api_HostAddress}}/api/company/
+Accept: application/json
+
+###
