@@ -23,11 +23,11 @@ This project is built using ASP.NET Core Web API designed for managing company r
  	- GlassLewis_Assessment.sln: Solution file.
 	- GlassLewis_Assessment.Api folder: Contains the main project files and static UI page.
 	- GlassLewis_Assessment.Api.Tests folder: Contains the unit testing project.
-	- Screenshots for reference: UI - Dashboard - Working Screenshot (UI Dashboard) and Swagger - Working Screenshot.jpg (Swagger UI).
+	- Screenshots attached for reference.
 - Open the GlassLewis_Assessment.sln solution file.
 - Build the application to ensure no compilation errors.
 - In Visual Studio, navigate to Tools -> NuGet Package Manager -> Package Manager Console.
-- In the Package Manager Console, run `update-database` to create the GlassLewis_Assessment.DB database 
+- In the Package Manager Console, run `update-database` to create the GlassLewis_Assessment.DB database (Previous step for creating the migration file is already complete.)
 - Verify that the database was created without errors.
 - Run the GlassLewis_Assessment application. This will open the Swagger UI at https://localhost:7068/swagger/index.html.
 - UI dashboard can be accessed via https://localhost:7068/pages/index.html
